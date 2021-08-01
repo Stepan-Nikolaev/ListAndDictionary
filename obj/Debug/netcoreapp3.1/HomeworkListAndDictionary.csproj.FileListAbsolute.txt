@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\bin\Debug\netcoreapp3.1\HomeworkListAndDictionary.exe
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\bin\Debug\netcoreapp3.1\HomeworkListAndDictionary.deps.json
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\bin\Debug\netcoreapp3.1\HomeworkListAndDictionary.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\bin\Debug\netcoreapp3.1\HomeworkListAndDictionary.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\bin\Debug\netcoreapp3.1\HomeworkListAndDictionary.dll
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\bin\Debug\netcoreapp3.1\HomeworkListAndDictionary.pdb
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\obj\Debug\netcoreapp3.1\HomeworkListAndDictionary.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\obj\Debug\netcoreapp3.1\HomeworkListAndDictionary.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\obj\Debug\netcoreapp3.1\HomeworkListAndDictionary.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\obj\Debug\netcoreapp3.1\HomeworkListAndDictionary.dll
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\obj\Debug\netcoreapp3.1\HomeworkListAndDictionary.pdb
+D:\Степапка\DEX\Домашние задания\List Dictionary\ListAndDictionary\ListAndDictionary\obj\Debug\netcoreapp3.1\HomeworkListAndDictionary.genruntimeconfig.cache
